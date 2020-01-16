@@ -1,6 +1,5 @@
-# frozen_string_literal: true
 
-def bubble_sort (array)
+def bubble_sort(array)
   size = array.size
   size.times do
     array.each_with_index do |v, i|
@@ -23,4 +22,3 @@ def bubble_sort_by(arr)
   end
   arr
 end
-
