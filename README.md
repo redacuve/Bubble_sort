@@ -92,3 +92,10 @@ Project Link: [github.com/redacuve/Bubble_sort](https://github.com/redacuve/Bubb
 * [Henrique Hefler](https://github.com/kalavhan)
 
 * [Rey David Cuevas Vela](https://github.com/redacuve)
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/badge/Contributors-2-%2300ff00
+[contributors-url]: https://github.com/redacuve/Bubble_sort/graphs/contributors
+[issues-shield]: https://img.shields.io/badge/issues-0-%2300ff00
+[issues-url]: hhttps://github.com/redacuve/Bubble_sort/issues
