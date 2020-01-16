@@ -13,7 +13,7 @@ end
 def bubble_sort_by(arr)
   size = arr.size
   size.times do
-    arr.each_with_index do |v, i|
+    arr.each_with_index do |_, i|
       break if i == size - 1
 
       arr[i], arr[i + 1] = arr[i + 1], arr[i] if yield(arr[i], arr[i + 1]) >= 1
