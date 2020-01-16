@@ -4,7 +4,7 @@ def bubble_sort(array)
   size.times do
     array.each_with_index do |v, i|
       break if i == size - 1
-      
+
       array[i], array[i + 1] = array[i + 1], array[i] if v > array[i + 1]
     end
   end
