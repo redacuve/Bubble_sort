@@ -89,7 +89,7 @@ Project Link: [github.com/redacuve/Bubble_sort](https://github.com/redacuve/Bubb
 
 ## Acknowledgements
 
-* [Henrique Hefler](https://github.com/kalavhan)
+* [Henrique Hefler](https://github.com/Kasuhira)
 
 * [Rey David Cuevas Vela](https://github.com/redacuve)
 
